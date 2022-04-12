@@ -3,3 +3,5 @@ This is a task to learn a usage of decorators. We have a an array of Nodes, whic
 
 Very important!
 This code was not mostly made by me. This is a task from our professor we were just to change code in Node.cs. I didn't write any other parts of this code!
+
+To use those files just upload them into a new visual studio project.
